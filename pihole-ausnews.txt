@@ -1,0 +1,45 @@
+# ABC News
+0.0.0.0 www.abc.net.au
+0.0.0.0 login.abc.net.au
+0.0.0.0 res.abc.net.au
+0.0.0.0 iview.abc.net.au
+0.0.0.0 cdn.iview.abc.net.au
+0.0.0.0 api.iview.abc.net.au
+
+# The Guardian (May block UK Guardian too)
+0.0.0.0 static.theguardian.com
+0.0.0.0 uploads.guim.co.uk
+0.0.0.0 www.theguardian.com
+0.0.0.0 support.theguardian.com
+0.0.0.0 interactive.guim.co.uk
+0.0.0.0 i.guim.co.uk
+0.0.0.0 assets.guim.co.uk
+0.0.0.0 contributions.guardianapis.com
+0.0.0.0 sourcepoint.theguardian.com
+
+# The Sydney Morning Herald
+0.0.0.0 www.smh.com.au
+0.0.0.0 smh.com.au
+
+# The Conversation
+0.0.0.0 theconversation.com
+0.0.0.0 images.theconversation.com
+0.0.0.0 cdn.theconversation.com
+0.0.0.0 jobs.theconversation.com
+
+# 7 News
+0.0.0.0 7news.com.au
+0.0.0.0 images.7news.com.au
+
+# 9 News
+0.0.0.0 www.9news.com.au
+0.0.0.0 wwos.nine.com.au
+0.0.0.0 9news.com.au
+0.0.0.0 imageresizer.static9.net.au
+
+# The Age
+0.0.0.0 www.theage.com.au
+0.0.0.0 api.theage.com.au
+
+# Crikey
+0.0.0.0 www.crikey.com.au
